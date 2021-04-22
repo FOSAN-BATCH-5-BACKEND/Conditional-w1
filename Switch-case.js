@@ -1,5 +1,5 @@
 let hari = 21;
-let tanggal = 13;
+let tanggal = 10;
 let tahun = 2000;
 
 switch (tanggal){

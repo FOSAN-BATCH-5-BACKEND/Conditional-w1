@@ -1,5 +1,5 @@
 let nama = "Mikael";
-let peran = "";
+let peran = "Ksatria";
 
 
 if (nama === ""){
