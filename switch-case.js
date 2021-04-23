@@ -20,9 +20,6 @@ if (y < 5 && x < 5 || x < y ) {
 //     console.log('masukkan tanggal yang benar!')
 //     console.log(tanggal);
 //     }
-// else if (tahun==1996&&bulan==7&&tanggal==15){
-//     console.log('HAPPY BIRTHDAY!!!!')
-// }
 // else if (isNaN(tahun)){
 //     console.log('masukkan tahun dengar format angka!')
 // }
